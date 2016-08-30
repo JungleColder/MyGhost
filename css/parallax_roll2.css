@@ -1,0 +1,73 @@
+/*<!--视差动画简单实例2-->*/
+
+
+/*统一设置背景的background-attchment属性*/
+.article{
+    width: 960px;
+    margin: 0 auto;
+    height: 800px;
+    padding: 40px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    font: 24px/1.5 'Microsoft YaHei';
+    line-height:400px;
+    text-indent:-25em;
+}
+/*分别给每个部分设置不同的背景和颜色*/
+.section1{
+    color: white;
+    background-image: url( http://www.alloyteam.com/wp-content/uploads/2014/01/section01.jpg);
+}
+.section2{
+    color: #FF8500;
+    background-image: url( http://www.alloyteam.com/wp-content/uploads/2014/01/section02.jpg);
+}
+.section3{
+    color: #747474;
+    background-image: url( http://www.alloyteam.com/wp-content/uploads/2014/01/section03.jpg);
+}
+.anim{
+    -webkit-transition : all 1s ease-in;
+    -moz-transition : all 1s ease-in;
+    -ms-transition : all 1s ease-in;
+    transition : all 1s ease-in;
+    text-indent:3em;
+}
+
+#home {
+    background: url(http://nettuts.s3.amazonaws.com/2138_SimpleParallax/Demo/images/home.jpg) 50% 0 no-repeat fixed;
+    height: 1000px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1920px;
+    position: relative;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.8);
+}
+#about {
+    background: url(http://nettuts.s3.amazonaws.com/2138_SimpleParallax/Demo/images/about.jpg) 50% 0 no-repeat fixed;
+    height: 1000px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1920px;
+    position: relative;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.8);
+}
+/* Introduction */
+#home article {
+    background: url("http://nettuts.s3.amazonaws.com/2138_SimpleParallax/Demo/images/intro.png") no-repeat scroll center top transparent;
+    height: 458px;
+    position: absolute;
+    text-indent: -9999px;
+    top: 291px;
+    width: 100%;
+}
+#about article {
+    background: url("http://nettuts.s3.amazonaws.com/2138_SimpleParallax/Demo/images/parallax.png") no-repeat scroll center top transparent;
+    height: 458px;
+    position: absolute;
+    text-indent: -9999px;
+    top: 291px;
+    width: 100%;
+}
