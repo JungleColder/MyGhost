@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5bae925-ebfa-4a16-8ec5-cc46a7a86518" name="Default" comment="Merge branch 'master' of github.com:JungleColder/MyGhost&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/parallax_roll.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/parallax_roll2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/parallax_roll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/parallax_roll2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parallax_roll_index1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parallax_roll_index2.html" />
+    <list default="true" id="c5bae925-ebfa-4a16-8ec5-cc46a7a86518" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/parallax_roll.css" afterPath="$PROJECT_DIR$/css/parallax_roll.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/parallax_roll.js" afterPath="$PROJECT_DIR$/js/parallax_roll.js" />
     </list>
     <ignored path="MyGhost.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parallax_roll_index1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parallax_roll_index1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parallax_roll_index1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -63,8 +59,8 @@
       <file leaf-file-name="parallax_roll2.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/parallax_roll2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+            <state relative-caret-position="275">
+              <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -73,8 +69,8 @@
       <file leaf-file-name="parallax_roll2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/parallax_roll2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+            <state relative-caret-position="175">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,18 +79,18 @@
       <file leaf-file-name="parallax_roll.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/parallax_roll.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="475">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parallax_roll.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="parallax_roll.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/parallax_roll.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -148,11 +144,11 @@
         <option value="$PROJECT_DIR$/parallax_index.html" />
         <option value="$PROJECT_DIR$/parallax_roll_index.html" />
         <option value="$PROJECT_DIR$/parallax_roll_index1.html" />
-        <option value="$PROJECT_DIR$/js/parallax_roll.js" />
-        <option value="$PROJECT_DIR$/css/parallax_roll.css" />
         <option value="$PROJECT_DIR$/css/parallax_roll2.css" />
         <option value="$PROJECT_DIR$/js/parallax_roll2.js" />
         <option value="$PROJECT_DIR$/parallax_roll_index2.html" />
+        <option value="$PROJECT_DIR$/js/parallax_roll.js" />
+        <option value="$PROJECT_DIR$/css/parallax_roll.css" />
       </list>
     </option>
   </component>
@@ -701,7 +697,7 @@
       <workItem from="1472178768706" duration="1806000" />
       <workItem from="1472180600218" duration="2766000" />
       <workItem from="1472435634421" duration="4304000" />
-      <workItem from="1472565693814" duration="2261000" />
+      <workItem from="1472565693814" duration="3481000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:JungleColder/MyGhost&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;">
       <created>1472179725285</created>
@@ -724,11 +720,18 @@
       <option name="project" value="LOCAL" />
       <updated>1472181838622</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;添加视差动画parallax_roll1和parallax2两个实例">
+      <created>1472568034942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1472568034942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11137000" />
+    <option name="totallyTimeSpent" value="12357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -745,7 +748,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -774,7 +777,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'master' of github.com:JungleColder/MyGhost&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:JungleColder/MyGhost&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;" />
+    <MESSAGE value="&#10;添加视差动画parallax_roll1和parallax2两个实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;添加视差动画parallax_roll1和parallax2两个实例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -902,32 +906,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/parallax_roll2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/parallax_roll2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/parallax_roll.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="175">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/parallax_roll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="475">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -935,7 +923,23 @@
     <entry file="file://$PROJECT_DIR$/parallax_roll_index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/parallax_roll2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/parallax_roll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding />
         </state>
       </provider>

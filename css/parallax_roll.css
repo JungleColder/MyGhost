@@ -1,5 +1,4 @@
 /*<!--视差动画简单实例1-->*/
-
 /*统一设置背景的background-attchment属性*/
 .article{
     width: 960px;
@@ -10,8 +9,8 @@
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
-    font: 24px/1.5 'Microsoft YaHei';
-    line-height:400px;
+    line-height:600px;
+    font-size:30px;
     text-indent:-25em;
 }
 /*分别给每个部分设置不同的背景和颜色*/
@@ -26,4 +25,12 @@
 .section3{
     color: #747474;
     background-image: url( http://www.alloyteam.com/wp-content/uploads/2014/01/section03.jpg);
+}
+.anim{
+    -webkit-transition : all 1s ease-in;
+    -moz-transition : all 1s ease-in;
+    -ms-transition : all 1s ease-in;
+    transition : all 1s ease-in;
+
+    text-indent:3em;
 }
